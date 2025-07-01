@@ -1,4 +1,4 @@
-###I break what shouldn’t break and build what resists being broken. No fancy degrees, just instinct — sharpened by bugs, binaries, and a need to understand what others fear to touch. I void warranties the way artists ruin blank canvases: deliberately.
+### I break what shouldn’t break and build what resists being broken. No fancy degrees, just instinct — sharpened by bugs, binaries, and a need to understand what others fear to touch. I void warranties the way artists ruin blank canvases: deliberately.
 
 <p align="left">
 <a href="https://twitter.com/xibhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xibhi_" height="30" width="40" /></a>
