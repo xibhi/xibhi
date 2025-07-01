@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sibhi</h1>
-<h3 align="center">Started programming at the age of 13, I got a keen interest towards Cyber Security and have explored multiple dimensions of it. I progressively worked on multiple technologies ranging from software to security, which gave me a brief exposure towards the industry. You can contact me for a coffee or to get your idea into code or to consult for your software, security needs.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xibhi&label=Profile%20views&color=0e75b6&style=flat" alt="xibhi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xibhi" alt="xibhi" /></a> </p>
+# 👋 Hi, I'm Sibhi:
+Started programming at the age of 13, I got a keen interest towards Cyber Security and have explored multiple dimensions of it. I progressively worked on multiple technologies ranging from software to security, which gave me a brief exposure towards the industry. You can contact me for a coffee or to get your idea into code or to consult for your software, security needs.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,8 +8,13 @@
 <a href="https://instagram.com/_xibhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_xibhi_" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xibhi&show_icons=true&locale=en&layout=compact" alt="xibhi" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=xibhi&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=xibhi&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xibhi&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xibhi&show_icons=true&locale=en" alt="xibhi" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=xibhi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xibhi&" alt="xibhi" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=xibhi&limit=5&theme=radical&combine_all_yearly_contributions=true)
