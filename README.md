@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sibhi:
-### Started programming at the age of 13, I got a keen interest towards Cyber Security and have explored multiple dimensions of it. I progressively worked on multiple technologies ranging from software to security, which gave me a brief exposure towards the industry. You can contact me for a coffee or to get your idea into code or to consult for your software, security needs.
+Started programming at the age of 13, I got a keen interest towards Cyber Security and have explored multiple dimensions of it. I progressively worked on multiple technologies ranging from software to security, which gave me a brief exposure towards the industry. You can contact me for a coffee or to get your idea into code or to consult for your software, security needs.
 
 <p align="left">
 <a href="https://twitter.com/xibhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xibhi_" height="30" width="40" /></a>
