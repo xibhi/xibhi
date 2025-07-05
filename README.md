@@ -1,10 +1,31 @@
-# 👋 Hi, I'm Sibhi
-### I break what shouldn’t break and build what resists being broken. No fancy degrees, just instinct — sharpened by bugs, binaries, and a need to understand what others fear to touch. I void warranties the way artists ruin blank canvases: deliberately.
+# 👋 Hey, I’m Sibhi.
 
-# 📈 Stats:
-![](https://github-readme-stats.vercel.app/api?username=xibhi&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=xibhi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xibhi&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### 17 y/o, Hacker, CVE-2025-26206, Secured NASA, Cisco, Lenovo, United Airlines, Citi.
 
-# 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=xibhi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
+
+## 🚀 About Me:
+
+I break what shouldn’t break and build what resists being broken. No fancy degrees — just instinct sharpened by bugs, binaries, and a need to understand what others fear to touch. I void warranties the way artists ruin blank canvases: deliberately.
+
+---
+
+## 💼 What I Do:
+
+### 🎨 Design
+> I don't just write code - I craft systems. From intuitive user flows to scalable cloud infrastructures, I design software that's elegant under the hood and effortless to use. Your business logic gets translated into a future-proof technical blueprint.
+
+### 💻 Develop
+> I turn complex ideas into functional, high-performance software. Whether it's mobile apps, web platforms, or scalable backend systems, I build solutions that work flawlessly under real-world demands.
+
+### 🛡️ Defend
+> With 3 years of experience in ethical hacking and penetration testing, I identify vulnerabilities before attackers do. I build resilient systems that keep your data safe from breaches.
+
+### ⚙️ Hustle
+> There is no one thing. I hustle a lot to explore opportunities and learn various domains of science, technology and engineering to apply them in my work.
+
+---
+
+## 📫 Let’s Connect
+
+Whether you're looking for a designer, developer, hacker, or just want to talk tech — I'm one ping away.
