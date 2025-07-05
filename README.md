@@ -1,6 +1,5 @@
 # 👋 Hey, I’m Sibhi.
-
-### 17 y/o, Hacker, CVE-2025-26206, Secured NASA, Cisco, Lenovo, United Airlines, Citi.
+17 y/o, Hacker, CVE-2025-26206, Secured NASA, Cisco, Lenovo, United Airlines, Citi.
 
 ---
 
