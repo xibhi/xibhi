@@ -31,3 +31,9 @@ Beyond hacking, I’m passionate about the intersection of technology and busine
 ## 📫 Let’s Connect
 
 Whether you're looking for a designer, developer, hacker, or just want to talk tech — I'm one ping away.
+
+<p align="left">
+<a href="https://instagram.com/_xibhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_xibhi_" height="30" width="40" /></a>
+<a href="https://twitter.com/xibhi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xibhi_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sibhibalamurugan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sibhibalamurugan" height="30" width="40" /></a>
+</p>
