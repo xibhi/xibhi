@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Sibhi.
+## ♥️ Hey, I’m Sibhi.
 
 I break what shouldn’t break and build what resists being broken. No fancy degrees — just instinct sharpened by bugs, binaries, and a need to understand what others fear to touch. I void warranties the way artists ruin blank canvases: deliberately.
 
