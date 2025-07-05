@@ -1,11 +1,14 @@
 # 👋 Hey, I’m Sibhi.
-17 y/o, Hacker, CVE-2025-26206, Secured NASA, Cisco, Lenovo, United Airlines, Citi.
+
+I break what shouldn’t break and build what resists being broken. No fancy degrees — just instinct sharpened by bugs, binaries, and a need to understand what others fear to touch. I void warranties the way artists ruin blank canvases: deliberately.
 
 ---
 
 ## 🚀 About Me:
 
-I break what shouldn’t break and build what resists being broken. No fancy degrees — just instinct sharpened by bugs, binaries, and a need to understand what others fear to touch. I void warranties the way artists ruin blank canvases: deliberately.
+Started programming at the age of 13, I got a keen interest towards cyber security and have explored multiple dimensions of it. I progressively worked on multiple technologies ranging from software to security, which gave me a brief exposure towards the industry. You can contact me for a coffee or to get your idea into code or to consult for your software, security needs.
+
+Beyond hacking, I’m passionate about the intersection of technology and business — particularly Web3, decentralized systems, product strategy, and scaling startups. I thrive where innovation meets execution, whether it’s securing digital infrastructure or building the next disruptive venture.
 
 ---
 
